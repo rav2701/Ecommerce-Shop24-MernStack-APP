@@ -59,7 +59,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/rav2701/Ecommerce-Shop24-MernStack-APP
 ```
 
 ### Navigate to the project directory
